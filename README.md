@@ -15,7 +15,9 @@ Enter the number then the letter of the piece you would like to move.
 Next, enter the place you want to move the piece to Example: 3b to 4a.
 
 W - White
+
 B - Black
+
 E - Empty
 
 Lastly
