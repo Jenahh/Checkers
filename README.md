@@ -10,6 +10,7 @@ Player vs. Player: Play against a friend locally, taking turns on the same compu
 User-Friendly Interface: The game features a simple and intuitive console interface, making it accessible to all players.
 
 How to Play
+
 Enter the number then the letter of the piece you would like to move.
 Next, enter the place you want to move the piece to Example: 3b to 4a.
 
