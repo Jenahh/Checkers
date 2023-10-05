@@ -1,5 +1,4 @@
 About Checkers Game in C++
-Project Description
 
 Welcome to the Checkers Game in C++ project!! :) This project is a console-based implementation of the classic board game Checkers. It offers an engaging and interactive way to play this age-old strategy game right from your computer.
 
