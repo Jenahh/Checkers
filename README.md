@@ -10,7 +10,11 @@ Player vs. Player: Play against a friend locally, taking turns on the same compu
 User-Friendly Interface: The game features a simple and intuitive console interface, making it accessible to all players.
 
 How to Play
-Launch the program in your preferred C++ development environment.
-Follow the on-screen instructions to set up the game, including choosing player names, board size, and colors.
-Take turns moving your pieces diagonally, aiming to capture your opponent's pieces or reach the opponent's back row to promote your pieces to kings.
-Keep strategizing, capturing, and outmaneuvering your opponent until victory is achieved!
+Enter the number then the letter of the piece you would like to move.
+Next, enter the place you want to move the piece to Example: 3b to 4a.
+W - Whit
+B - Black
+E - Empty
+
+Lastly
+Have fun!!!
